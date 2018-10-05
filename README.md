@@ -18,7 +18,7 @@
 ## Screenshots
 
   <p align="center">
-  <img src="Images/screenshots/game.jpeg" width="30%"/> <img src="Images/screenshots/menu.jpeg" width="30%"/> <img src="Images/screenshots/goal.jpg" width="30%"/>
+  <img src="Images/screenshots/game_2.jpeg" width="30%"/> <img src="Images/screenshots/menu.jpeg" width="30%"/> <img src="Images/screenshots/goal.jpg" width="30%"/>
   </p>
 
 ## Languages
@@ -27,4 +27,5 @@
 
 ## Contributors
   :bowtie: Michel Balamou
+
   :shipit: Daesol Jung
